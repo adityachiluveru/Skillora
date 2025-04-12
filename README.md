@@ -3,7 +3,7 @@
 Skillora is a dynamic online learning platform designed to provide coding-related courses. Built using the MERN stack, it offers a seamless experience for students, instructors, and administrators.
 ## 🖼 Website Preview
 
-![Skillora Screenshot](https://your-image-link.com/image.png)
+![Skillora Screenshot](image.png)
 
 ## Features
 
