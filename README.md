@@ -1,18 +1,34 @@
 # Skillora
 
-Skillora is a web-based platform aimed at delivering skill-based learning experiences. This repository contains the frontend code for the Skillora website.
+Skillora is a dynamic online learning platform designed to provide coding-related courses. Built using the MERN stack, it offers a seamless experience for students, instructors, and administrators.
+## 🖼 Website Preview
 
-## 🌐 Live Demo
+![Skillora Screenshot](https://your-image-link.com/image.png)
 
-[Link to live site](#) *(Add your deployment link here if available)*
+## Features
 
-## 📁 Project Structure
+### For Students
+- **User Authentication**: Secure login and registration.
+- **Course Catalog**: Browse and enroll in various coding courses.
+- **Progress Tracking**: Monitor your learning journey.
 
-- `index.html`: The main entry point of the application.
+### For Instructors
+- **Course Management**: Create and manage your courses.
+- **Student Interaction**: Engage with students through discussions and feedback.
 
-## 🚀 Getting Started
+### For Admins
+- **User Management**: Oversee student and instructor accounts.
+- **Content Moderation**: Ensure quality and relevance of course materials.
 
-To run the project locally:
+## Tech Stack
+
+- **Frontend**: React.js
+- **Backend**: Node.js with Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+- **Styling**: Tailwind CSS
+
+## Installation
 
 1. Clone the repository:
    ```bash
